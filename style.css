@@ -107,6 +107,7 @@
     transition: all 0.5s;
     z-index: 4;
     margin-bottom: 3%;
+    
   }
   
   .rating:nth-of-type(1):hover {
@@ -164,6 +165,7 @@
     width: 42vmin;
     height: 28vmin;
     border-radius: 10px;
+    margin: 0.5rem;
     background-color: hsl(300, 43%, 22%);
     transition: all 0.5s;
     z-index: 4;
